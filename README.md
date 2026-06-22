@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0392-is-subsequence) |
+| [0876-middle-of-the-linked-list](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0876-middle-of-the-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0141-linked-list-cycle) |
+| [0876-middle-of-the-linked-list](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0876-middle-of-the-linked-list) |
 ## Math
 |  |
 | ------- |
