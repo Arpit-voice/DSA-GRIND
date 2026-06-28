@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0287-find-the-duplicate-number) |
 ## Two Pointers
 |  |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0287-find-the-duplicate-number) |
@@ -64,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0050-powx-n) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
