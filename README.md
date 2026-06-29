@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0443-string-compression) |
 | [0876-middle-of-the-linked-list](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Arpit-voice/DSA-GRIND/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Greedy
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0443-string-compression) |
 ## Dynamic Programming
 |  |
 | ------- |
