@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0287-find-the-duplicate-number) |
+| [0905-sort-array-by-parity](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0905-sort-array-by-parity) |
 ## Two Pointers
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0443-string-compression) |
 | [0876-middle-of-the-linked-list](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0876-middle-of-the-linked-list) |
+| [0905-sort-array-by-parity](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0905-sort-array-by-parity) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Arpit-voice/DSA-GRIND/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Greedy
 |  |
@@ -74,4 +76,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0075-sort-colors) |
+| [0905-sort-array-by-parity](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0905-sort-array-by-parity) |
 <!---LeetCode Topics End-->
