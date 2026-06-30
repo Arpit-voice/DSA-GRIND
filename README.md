@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0905-sort-array-by-parity) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Arpit-voice/DSA-GRIND/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2337-move-pieces-to-obtain-a-string](https://github.com/Arpit-voice/DSA-GRIND/tree/master/2337-move-pieces-to-obtain-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0392-is-subsequence](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0443-string-compression) |
+| [2337-move-pieces-to-obtain-a-string](https://github.com/Arpit-voice/DSA-GRIND/tree/master/2337-move-pieces-to-obtain-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
