@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0202-happy-number) |
 ## Binary Search
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0392-is-subsequence) |
 ## Recursion
 |  |
@@ -79,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0075-sort-colors) |
 | [0905-sort-array-by-parity](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0905-sort-array-by-parity) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
