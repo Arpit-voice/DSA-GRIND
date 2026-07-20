@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0200-number-of-islands](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0200-number-of-islands) |
 | [0287-find-the-duplicate-number](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0287-find-the-duplicate-number) |
 | [0905-sort-array-by-parity](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0905-sort-array-by-parity) |
 ## Two Pointers
@@ -88,17 +89,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0547-number-of-provinces) |
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0547-number-of-provinces) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
