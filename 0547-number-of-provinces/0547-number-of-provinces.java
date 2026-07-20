@@ -1,26 +1,21 @@
 class Solution {
-    static Set<Integer> visited;
-    static int provinces;
-
     public int findCircleNum(int[][] isConnected) {
-        visited = new HashSet<>();
-        provinces = 0;
-
-
-        for(int city=0;city<isConnected.length; city++ ){
-            if(!visited.contains(city)){
+        int provinces=0;
+        int[] visited = new int [isConnected.length];
+        for(int i=0; i<isConnected.length;i++){
+            if(visited[i]!=1){
+                dfs(i,visited,isConnected);
                 provinces++;
-                dfs(city,isConnected);
             }
         }
         return provinces;
     }
-    public void dfs(int city, int [][] isConnected){
-        visited.add(city);
+    void dfs(int city , int[]visited ,int [][]isConnected){
+        visited[city] =1;
 
-        for(int neighbor=0;neighbor<isConnected[0].length ; neighbor++){
-            if(isConnected[city][neighbor]==1 && !visited.contains(neighbor)){
-                dfs(neighbor,isConnected);
+        for(int j=0;j<isConnected[0].length;j++){
+            if(isConnected[city][j]==1 && visited[j]!=1){
+                dfs(j,visited,isConnected);
             }
         }
 
