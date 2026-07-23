@@ -9,12 +9,12 @@ class Solution {
         }
     }
     public int shortestPathBinaryMatrix(int[][] grid) {
-        if(grid[0][0]!=0) return -1;
-        if(grid.length==1) return 1;
-        int visited[][] =new int [grid.length][grid[0].length];
+        if(grid[0][0]!=0) return -1 ;
+
+        if(grid.length==1) return 1 ;
+        int visited[][] = new int [grid.length][grid[0].length];
 
         int ans = bfs(0,0,grid,visited,1);
-
         return ans;
     }
     public int bfs(int i,int j,int[][] grid , int visited[][],int t){
