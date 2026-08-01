@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0200-number-of-islands](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0200-number-of-islands) |
 | [0287-find-the-duplicate-number](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0287-find-the-duplicate-number) |
+| [0486-predict-the-winner](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0486-predict-the-winner) |
 | [0733-flood-fill](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0733-flood-fill) |
 | [0905-sort-array-by-parity](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0905-sort-array-by-parity) |
 | [0994-rotting-oranges](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0994-rotting-oranges) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0202-happy-number) |
+| [0486-predict-the-winner](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0486-predict-the-winner) |
 ## Binary Search
 |  |
 | ------- |
@@ -76,10 +78,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0392-is-subsequence) |
+| [0486-predict-the-winner](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0486-predict-the-winner) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0050-powx-n) |
+| [0486-predict-the-winner](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0486-predict-the-winner) |
 ## Sorting
 |  |
 | ------- |
@@ -134,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0210-course-schedule-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
