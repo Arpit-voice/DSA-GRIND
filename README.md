@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0287-find-the-duplicate-number) |
 | [0486-predict-the-winner](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0486-predict-the-winner) |
 | [0733-flood-fill](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0733-flood-fill) |
+| [0877-stone-game](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0905-sort-array-by-parity) |
 | [0994-rotting-oranges](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Arpit-voice/DSA-GRIND/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0202-happy-number) |
 | [0486-predict-the-winner](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0877-stone-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0877-stone-game) |
 ## Recursion
 |  |
 | ------- |
@@ -142,4 +145,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
