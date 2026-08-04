@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0905-sort-array-by-parity) |
 | [0994-rotting-oranges](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Arpit-voice/DSA-GRIND/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1406-stone-game-iii](https://github.com/Arpit-voice/DSA-GRIND/tree/master/1406-stone-game-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0202-happy-number) |
 | [0486-predict-the-winner](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Arpit-voice/DSA-GRIND/tree/master/1406-stone-game-iii) |
 ## Binary Search
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Arpit-voice/DSA-GRIND/tree/master/1406-stone-game-iii) |
 ## Recursion
 |  |
 | ------- |
@@ -146,4 +149,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Arpit-voice/DSA-GRIND/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Arpit-voice/DSA-GRIND/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Arpit-voice/DSA-GRIND/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
