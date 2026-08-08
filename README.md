@@ -39,10 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0905-sort-array-by-parity) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Arpit-voice/DSA-GRIND/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2337-move-pieces-to-obtain-a-string](https://github.com/Arpit-voice/DSA-GRIND/tree/master/2337-move-pieces-to-obtain-a-string) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Arpit-voice/DSA-GRIND/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0011-container-with-most-water) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Arpit-voice/DSA-GRIND/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Arpit-voice/DSA-GRIND/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Hash Table
 |  |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0443-string-compression) |
 | [2337-move-pieces-to-obtain-a-string](https://github.com/Arpit-voice/DSA-GRIND/tree/master/2337-move-pieces-to-obtain-a-string) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Arpit-voice/DSA-GRIND/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Arpit-voice/DSA-GRIND/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Dynamic Programming
 |  |
@@ -91,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Arpit-voice/DSA-GRIND/tree/master/1406-stone-game-iii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Arpit-voice/DSA-GRIND/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Recursion
 |  |
 | ------- |
