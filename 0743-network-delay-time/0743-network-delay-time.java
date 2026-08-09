@@ -18,7 +18,7 @@ class Solution {
         PriorityQueue<int []> pq= new PriorityQueue<>((a,b)->a[0]-b[0]);
         int dist[] = new int[n+1];
         Arrays.fill(dist,Integer.MAX_VALUE);
-        dist[0]=0;
+        // dist[0]=0;
         dist[src] =0;
 
         pq.offer(new int[]{0,src});
@@ -42,7 +42,7 @@ class Solution {
 
         int max = Integer.MIN_VALUE;
         // System.out.println(max);
-        for(int i=0; i<n+1;i++){
+        for(int i=1; i<n+1;i++){
 
             System.out.println(dist[i]);
             // System.out.println(max);
