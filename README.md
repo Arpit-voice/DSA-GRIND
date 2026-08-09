@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0743-network-delay-time) |
 | [3310-remove-methods-from-project](https://github.com/Arpit-voice/DSA-GRIND/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0743-network-delay-time) |
 | [0994-rotting-oranges](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Arpit-voice/DSA-GRIND/tree/master/1091-shortest-path-in-binary-matrix) |
 | [3310-remove-methods-from-project](https://github.com/Arpit-voice/DSA-GRIND/tree/master/3310-remove-methods-from-project) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0684-redundant-connection) |
+| [0743-network-delay-time](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0743-network-delay-time) |
 | [3310-remove-methods-from-project](https://github.com/Arpit-voice/DSA-GRIND/tree/master/3310-remove-methods-from-project) |
 ## Matrix
 |  |
@@ -184,4 +187,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Arpit-voice/DSA-GRIND/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
