@@ -40,16 +40,12 @@ class Solution {
             }
         }
 
-        int max = Integer.MIN_VALUE;
-        // System.out.println(max);
+        int max = 0;
         for(int i=1; i<n+1;i++){
-
-            System.out.println(dist[i]);
-            // System.out.println(max);
+            if(dist[i] == Integer.MAX_VALUE) return -1;
             if(dist[i]>max) max=dist[i];
         }
 
-        if(max == Integer.MAX_VALUE) return -1;
         return max;
 
     }
