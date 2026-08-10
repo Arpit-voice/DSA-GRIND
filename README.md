@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0486-predict-the-winner) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Arpit-voice/DSA-GRIND/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Arpit-voice/DSA-GRIND/tree/master/1406-stone-game-iii) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/Arpit-voice/DSA-GRIND/tree/master/1631-path-with-minimum-effort) |
 | [3310-remove-methods-from-project](https://github.com/Arpit-voice/DSA-GRIND/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0994-rotting-oranges](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Arpit-voice/DSA-GRIND/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/Arpit-voice/DSA-GRIND/tree/master/1631-path-with-minimum-effort) |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0787-cheapest-flights-within-k-stops) |
 | [3310-remove-methods-from-project](https://github.com/Arpit-voice/DSA-GRIND/tree/master/3310-remove-methods-from-project) |
 ## Matrix
 |  |
@@ -208,11 +212,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/Arpit-voice/DSA-GRIND/tree/master/1631-path-with-minimum-effort) |
 ## Shortest Path
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
