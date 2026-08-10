@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/Arpit-voice/DSA-GRIND/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1140-stone-game-ii](https://github.com/Arpit-voice/DSA-GRIND/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Arpit-voice/DSA-GRIND/tree/master/1406-stone-game-iii) |
+| [1631-path-with-minimum-effort](https://github.com/Arpit-voice/DSA-GRIND/tree/master/1631-path-with-minimum-effort) |
 | [3731-find-missing-elements](https://github.com/Arpit-voice/DSA-GRIND/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0287-find-the-duplicate-number) |
+| [1631-path-with-minimum-effort](https://github.com/Arpit-voice/DSA-GRIND/tree/master/1631-path-with-minimum-effort) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0743-network-delay-time) |
+| [1631-path-with-minimum-effort](https://github.com/Arpit-voice/DSA-GRIND/tree/master/1631-path-with-minimum-effort) |
 | [3310-remove-methods-from-project](https://github.com/Arpit-voice/DSA-GRIND/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0743-network-delay-time) |
 | [0994-rotting-oranges](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Arpit-voice/DSA-GRIND/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/Arpit-voice/DSA-GRIND/tree/master/1631-path-with-minimum-effort) |
 | [3310-remove-methods-from-project](https://github.com/Arpit-voice/DSA-GRIND/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
 |  |
@@ -143,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0684-redundant-connection) |
+| [1631-path-with-minimum-effort](https://github.com/Arpit-voice/DSA-GRIND/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
 | ------- |
@@ -159,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Arpit-voice/DSA-GRIND/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/Arpit-voice/DSA-GRIND/tree/master/1631-path-with-minimum-effort) |
 ## Topological Sort
 |  |
 | ------- |
@@ -197,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0743-network-delay-time) |
+| [1631-path-with-minimum-effort](https://github.com/Arpit-voice/DSA-GRIND/tree/master/1631-path-with-minimum-effort) |
 ## Shortest Path
 |  |
 | ------- |
@@ -205,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0743-network-delay-time) |
+| [1631-path-with-minimum-effort](https://github.com/Arpit-voice/DSA-GRIND/tree/master/1631-path-with-minimum-effort) |
 ## Prefix Sum
 |  |
 | ------- |
