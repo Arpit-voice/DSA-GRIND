@@ -17,19 +17,16 @@ class Solution {
             }
         }
         // for(int i =0;i<r;i++){
-        //     for(int j =0;j<graph[i].length;j++){
+        //      for(int j =0;j<graph[i].length;j++){
         //         System.out.print(adj.get(i).get(j)+" ");  
         //     }
         //      System.out.println();
         // }
-        for(int i =0;i<r;i++){
-            for(int j =0;j<adj.get(i).size();j++){
-                int node = adj.get(i).get(j);
-                if(color[node]==-1){
-                    // boolean temp = bfsbipartite(node,adj,color);
-                    boolean temp = dfsbipartite(node,adj,color,0);
-                    if(!temp) return false;
-                }
+        for (int i = 0; i < r; i++) {
+            if (color[i] == -1) {
+                boolean ok = bfsbipartite(i, adj, color);
+                // boolean ok = dfsbipartite(i, adj, color,0);
+                if (!ok) return false;
             }
         }
         return true;
