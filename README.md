@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Arpit-voice/DSA-GRIND/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Arpit-voice/DSA-GRIND/tree/master/1406-stone-game-iii) |
 | [1631-path-with-minimum-effort](https://github.com/Arpit-voice/DSA-GRIND/tree/master/1631-path-with-minimum-effort) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Arpit-voice/DSA-GRIND/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Arpit-voice/DSA-GRIND/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Arpit-voice/DSA-GRIND/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0202-happy-number) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Arpit-voice/DSA-GRIND/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Arpit-voice/DSA-GRIND/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Arpit-voice/DSA-GRIND/tree/master/3731-find-missing-elements) |
 ## Linked List
@@ -239,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Arpit-voice/DSA-GRIND/tree/master/1510-stone-game-iv) |
+## Sliding Window
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Arpit-voice/DSA-GRIND/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
