@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/Arpit-voice/DSA-GRIND/tree/master/1631-path-with-minimum-effort) |
 | [3310-remove-methods-from-project](https://github.com/Arpit-voice/DSA-GRIND/tree/master/3310-remove-methods-from-project) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0994-rotting-oranges](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Arpit-voice/DSA-GRIND/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0684-redundant-connection) |
+| [0785-is-graph-bipartite](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0785-is-graph-bipartite) |
 | [1631-path-with-minimum-effort](https://github.com/Arpit-voice/DSA-GRIND/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0787-cheapest-flights-within-k-stops) |
 | [3310-remove-methods-from-project](https://github.com/Arpit-voice/DSA-GRIND/tree/master/3310-remove-methods-from-project) |
 ## Matrix
@@ -245,4 +249,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Arpit-voice/DSA-GRIND/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
