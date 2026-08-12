@@ -26,7 +26,8 @@ class Solution {
             for(int j =0;j<adj.get(i).size();j++){
                 int node = adj.get(i).get(j);
                 if(color[node]==-1){
-                    boolean temp = bipartite(node,adj,r,color);
+                    // boolean temp = bfsbipartite(node,adj,color);
+                    boolean temp = dfsbipartite(node,adj,color,0);
                     if(!temp) return false;
                 }
             }
@@ -35,7 +36,7 @@ class Solution {
 
     }
 
-    public boolean bipartite(int src,ArrayList<ArrayList<Integer>> adj,int n,int[] color){
+    public boolean bfsbipartite(int src,ArrayList<ArrayList<Integer>> adj,int[] color){
 
         Queue<Integer> q= new LinkedList<>();
         color[src]=0;
@@ -57,5 +58,20 @@ class Solution {
             }
         }
         return true;
+    }
+    public boolean dfsbipartite(int u,ArrayList<ArrayList<Integer>> adj,int[] color,int clr){
+         
+        color[u]= clr;
+        
+        for(int v: adj.get(u)){
+            if(color[v]==-1){
+                boolean temp = dfsbipartite(v,adj,color,1-clr);
+                if(!temp) return false;
+            }
+            else if(color[u]==color[v]){
+                return false;
+            }
+        }
+    return true;
     }
 }
