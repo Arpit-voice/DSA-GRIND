@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Arpit-voice/DSA-GRIND/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Arpit-voice/DSA-GRIND/tree/master/1406-stone-game-iii) |
 | [1631-path-with-minimum-effort](https://github.com/Arpit-voice/DSA-GRIND/tree/master/1631-path-with-minimum-effort) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Arpit-voice/DSA-GRIND/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Arpit-voice/DSA-GRIND/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Arpit-voice/DSA-GRIND/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Arpit-voice/DSA-GRIND/tree/master/3731-find-missing-elements) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0392-is-subsequence](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0443-string-compression) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Arpit-voice/DSA-GRIND/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2337-move-pieces-to-obtain-a-string](https://github.com/Arpit-voice/DSA-GRIND/tree/master/2337-move-pieces-to-obtain-a-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Arpit-voice/DSA-GRIND/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Arpit-voice/DSA-GRIND/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -257,4 +259,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Arpit-voice/DSA-GRIND/tree/master/0785-is-graph-bipartite) |
+## Segment Tree
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Arpit-voice/DSA-GRIND/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Arpit-voice/DSA-GRIND/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
